@@ -10,4 +10,4 @@ User Profiles: Gain comprehensive insights into the profiles of GitHub users. De
 
 Responsive Design: Dev Detective is crafted using Tailwind CSS, ensuring a responsive and visually stunning experience across various devices and screen sizes. Whether you're using a desktop, tablet, or mobile device, Dev Detective adapts seamlessly to provide an optimal user experience.
 
-demo-https://dev-detect.netlify.app/
+demo-
